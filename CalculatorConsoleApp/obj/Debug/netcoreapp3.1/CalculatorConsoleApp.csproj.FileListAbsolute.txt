@@ -1,0 +1,14 @@
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+D:\Kuliah\Semester 2\Pemograman\Coding\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache

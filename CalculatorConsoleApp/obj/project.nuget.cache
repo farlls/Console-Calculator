@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVc+++CYuz/DOLIPZMldHeHoxitCpIs3cimrf9B0y4p8+jtRG1Q1xP21CMLSXNotIcoJxM9fyKez2lCZVGZwsw==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester 2\\Pemograman\\Coding\\CalculatorConsoleApp\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer_aspire\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
